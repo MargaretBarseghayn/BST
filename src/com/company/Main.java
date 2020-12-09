@@ -21,5 +21,6 @@ public class Main {
 
         bst.delete(60);
         bst.BFS();
+
     }
 }
